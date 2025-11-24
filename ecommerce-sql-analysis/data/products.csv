@@ -1,0 +1,121 @@
+product_id,product_name,category,price,brand
+1,Summit Phone,Electronics,28278,Summit
+2,Harbor Phone,Electronics,71318,Harbor
+3,Nova Phone,Electronics,54980,Nova
+4,Lotus Phone,Electronics,45019,Lotus
+5,Aster Laptop,Electronics,11954,Aster
+6,Summit Laptop,Electronics,11952,Summit
+7,Lotus Laptop,Electronics,4638,Lotus
+8,Harbor Laptop,Electronics,65003,Harbor
+9,Zenith Headphones,Electronics,45203,Zenith
+10,Harbor Headphones,Electronics,53193,Harbor
+11,Breeze Headphones,Electronics,1837,Breeze
+12,Nova Headphones,Electronics,72752,Nova
+13,Orion Smartwatch,Electronics,62483,Orion
+14,Harbor Smartwatch,Electronics,16161,Harbor
+15,Vega Smartwatch,Electronics,13882,Vega
+16,Orion Smartwatch,Electronics,14000,Orion
+17,Orion Camera,Electronics,23026,Orion
+18,Nova Camera,Electronics,39499,Nova
+19,Nova Camera,Electronics,32566,Nova
+20,Aster Camera,Electronics,22054,Aster
+21,Breeze Mixer,Home & Kitchen,46005,Breeze
+22,Aster Mixer,Home & Kitchen,10719,Aster
+23,Lotus Mixer,Home & Kitchen,22122,Lotus
+24,Lotus Mixer,Home & Kitchen,27667,Lotus
+25,Lotus Cooker,Home & Kitchen,34368,Lotus
+26,Zenith Cooker,Home & Kitchen,58952,Zenith
+27,Harbor Cooker,Home & Kitchen,15215,Harbor
+28,Vivid Cooker,Home & Kitchen,38713,Vivid
+29,Nova Knife Set,Home & Kitchen,44553,Nova
+30,Vivid Knife Set,Home & Kitchen,3769,Vivid
+31,Summit Knife Set,Home & Kitchen,45683,Summit
+32,Nova Knife Set,Home & Kitchen,13037,Nova
+33,Nova Vacuum,Home & Kitchen,5158,Nova
+34,Nova Vacuum,Home & Kitchen,71182,Nova
+35,Vivid Vacuum,Home & Kitchen,72433,Vivid
+36,Nova Vacuum,Home & Kitchen,60687,Nova
+37,Vega Blender,Home & Kitchen,23054,Vega
+38,Zenith Blender,Home & Kitchen,7595,Zenith
+39,Summit Blender,Home & Kitchen,51412,Summit
+40,Harbor Blender,Home & Kitchen,33179,Harbor
+41,Orion T-Shirt,Clothing,9415,Orion
+42,Vega T-Shirt,Clothing,37289,Vega
+43,Vivid T-Shirt,Clothing,2868,Vivid
+44,Breeze T-Shirt,Clothing,68226,Breeze
+45,Vega Jeans,Clothing,19630,Vega
+46,Orion Jeans,Clothing,49790,Orion
+47,Lotus Jeans,Clothing,23584,Lotus
+48,Orion Jeans,Clothing,39149,Orion
+49,Breeze Jacket,Clothing,41139,Breeze
+50,Vega Jacket,Clothing,14108,Vega
+51,Orion Jacket,Clothing,72728,Orion
+52,Harbor Jacket,Clothing,58202,Harbor
+53,Vivid Shirt,Clothing,70481,Vivid
+54,Vega Shirt,Clothing,67143,Vega
+55,Vega Shirt,Clothing,44963,Vega
+56,Breeze Shirt,Clothing,69164,Breeze
+57,Summit Kurta,Clothing,6909,Summit
+58,Lotus Kurta,Clothing,14939,Lotus
+59,Lotus Kurta,Clothing,3678,Lotus
+60,Summit Kurta,Clothing,24602,Summit
+61,Nova Face Wash,Beauty,29334,Nova
+62,Orion Face Wash,Beauty,20569,Orion
+63,Vivid Face Wash,Beauty,62207,Vivid
+64,Nova Face Wash,Beauty,26949,Nova
+65,Breeze Moisturizer,Beauty,21285,Breeze
+66,Zenith Moisturizer,Beauty,40839,Zenith
+67,Vega Moisturizer,Beauty,10826,Vega
+68,Harbor Moisturizer,Beauty,60224,Harbor
+69,Lotus Perfume,Beauty,5868,Lotus
+70,Aster Perfume,Beauty,74020,Aster
+71,Lotus Perfume,Beauty,57986,Lotus
+72,Aster Perfume,Beauty,15143,Aster
+73,Breeze Lipstick,Beauty,712,Breeze
+74,Aster Lipstick,Beauty,61215,Aster
+75,Nova Lipstick,Beauty,53102,Nova
+76,Breeze Lipstick,Beauty,54757,Breeze
+77,Vega Shampoo,Beauty,57914,Vega
+78,Lotus Shampoo,Beauty,5830,Lotus
+79,Nova Shampoo,Beauty,27077,Nova
+80,Summit Shampoo,Beauty,8955,Summit
+81,Aster Cricket Bat,Sports,64774,Aster
+82,Orion Cricket Bat,Sports,46860,Orion
+83,Vega Cricket Bat,Sports,25017,Vega
+84,Harbor Cricket Bat,Sports,5047,Harbor
+85,Zenith Football,Sports,23530,Zenith
+86,Summit Football,Sports,24591,Summit
+87,Zenith Football,Sports,54801,Zenith
+88,Summit Football,Sports,47925,Summit
+89,Lotus Treadmill,Sports,66575,Lotus
+90,Harbor Treadmill,Sports,35574,Harbor
+91,Orion Treadmill,Sports,9233,Orion
+92,Summit Treadmill,Sports,53579,Summit
+93,Aster Yoga Mat,Sports,57130,Aster
+94,Harbor Yoga Mat,Sports,42227,Harbor
+95,Orion Yoga Mat,Sports,57891,Orion
+96,Zenith Yoga Mat,Sports,37186,Zenith
+97,Harbor Dumbbells,Sports,39348,Harbor
+98,Aster Dumbbells,Sports,32237,Aster
+99,Harbor Dumbbells,Sports,2198,Harbor
+100,Nova Dumbbells,Sports,8359,Nova
+101,Breeze Laptop,Home & Kitchen,2647,Breeze
+102,Nova Treadmill,Beauty,47839,Nova
+103,Vivid Kurta,Beauty,23782,Vivid
+104,Zenith Headphones,Electronics,38290,Zenith
+105,Nova Cooker,Clothing,68095,Nova
+106,Vivid Yoga Mat,Sports,18921,Vivid
+107,Aster Shirt,Sports,30955,Aster
+108,Breeze Knife Set,Clothing,56739,Breeze
+109,Orion Laptop,Electronics,17390,Orion
+110,Vivid Cricket Bat,Beauty,6049,Vivid
+111,Aster Headphones,Beauty,21944,Aster
+112,Lotus Shampoo,Beauty,12342,Lotus
+113,Lotus Cricket Bat,Electronics,69748,Lotus
+114,Nova Knife Set,Sports,60666,Nova
+115,Zenith Shirt,Clothing,47615,Zenith
+116,Orion Jeans,Sports,65398,Orion
+117,Nova Shirt,Sports,60334,Nova
+118,Harbor Moisturizer,Electronics,14236,Harbor
+119,Lotus Moisturizer,Electronics,66974,Lotus
+120,Lotus Moisturizer,Sports,40588,Lotus
