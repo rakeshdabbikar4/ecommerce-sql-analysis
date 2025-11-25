@@ -71,7 +71,7 @@ sql/queries.sql
 ## 📈 Screenshots
 
 All screenshots of SQL output are stored in: 
-screenshot/
+screens/
 
 
 ---
