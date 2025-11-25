@@ -11,10 +11,15 @@ The project is organized into separate folders for data, outputs, screenshots, a
 
 ecommerce-sql-analysis/
 │
+
 ├── data/ → Raw CSV files
+
 ├── outputs/ → Exported CSV outputs from SQL queries
+
 ├── screens/ → Screenshots of SQL results
+
 ├── sql/ → queries.sql containing 20 SQL queries
+
 └── README.md → Project documentation
 
 ---
