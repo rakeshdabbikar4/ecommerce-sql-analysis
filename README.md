@@ -9,6 +9,13 @@ The project is organized into separate folders for data, outputs, screenshots, a
 
 ## 📁 Project Structure
 
+ecommerce-sql-analysis/
+│
+├── data/ → Raw CSV files
+├── outputs/ → Exported CSV outputs from SQL queries
+├── screens/ → Screenshots of SQL results
+├── sql/ → queries.sql containing 20 SQL queries
+└── README.md → Project documentation
 
 ---
 
@@ -57,14 +64,16 @@ All queries are located in:
 
 ## 📈 Screenshots
 
-All screenshots of SQL output are stored in: screens/
+All screenshots of SQL output are stored in: 
+screens/
 
 
 ---
 
 ## 📂 Outputs (CSV)
 
-All CSV outputs exported from DB Browser are stored in: outputs/
+All CSV outputs exported from DB Browser are stored in: 
+outputs/
 
 
 ---
@@ -102,20 +111,23 @@ All CSV outputs exported from DB Browser are stored in: outputs/
 Download: https://sqlitebrowser.org/
 
 ### **2. Create a new database**
-
+ecommerce.db
 
 ### **3. Import CSV files**
 Go to:
+File → Import → Table from CSV
 
 Import all 4 CSVs.
 
 ### **4. Run the queries**
 Open:
+sql/queries.sql
 
 Run each query inside **Execute SQL**.
 
 ### **5. Export results**
 Use:
+Right-click → Export → CSV
 
 Save in `outputs/`.
 
