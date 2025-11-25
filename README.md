@@ -10,6 +10,7 @@ The project is organized into separate folders for data, outputs, screenshots, a
 ## 📁 Project Structure
 
 ecommerce-sql-analysis/
+
 │
 
 ├── data/ → Raw CSV files
