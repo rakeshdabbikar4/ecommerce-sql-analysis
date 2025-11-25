@@ -58,14 +58,14 @@ This project uses **4 CSV files** stored in the `data/` directory:
 - Subqueries  
 
 All queries are located in:
-
+sql/queries.sql
 
 ---
 
 ## 📈 Screenshots
 
 All screenshots of SQL output are stored in: 
-screens/
+screenshot/
 
 
 ---
