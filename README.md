@@ -57,13 +57,86 @@ All queries are located in:
 
 ## 📈 Screenshots
 
-All screenshots of SQL output are stored in:
+All screenshots of SQL output are stored in: screens/
 
 
 ---
 
 ## 📂 Outputs (CSV)
 
-All CSV outputs exported from DB Browser are stored in:
+All CSV outputs exported from DB Browser are stored in: outputs/
 
+
+---
+
+## 📌 CSV + Screenshot Mapping (All 20 Queries)
+
+| Query | Description | CSV Output | Screenshot |
+|-------|-------------|------------|------------|
+| Q1 | Total orders | `outputs/q01_total_orders.csv` | `screens/q01_total_orders.png` |
+| Q2 | Active customers | `outputs/q02_active_customers.csv` | `screens/q02_active_customers.png` |
+| Q3 | Total revenue | `outputs/q03_total_revenue.csv` | `screens/q03_total_revenue.png` |
+| Q4 | Average Order Value | `outputs/q04_aov.csv` | `screens/q04_aov.png` |
+| Q5 | Top 10 products | `outputs/q05_top_products.csv` | `screens/q05_top_products.png` |
+| Q6 | Top 10 customers | `outputs/q06_top_customers.csv` | `screens/q06_top_customers.png` |
+| Q7 | Orders per month | `outputs/q07_orders_per_month.csv` | `screens/q07_orders_per_month.png` |
+| Q8 | Revenue by category | `outputs/q08_category_revenue.csv` | `screens/q08_category_revenue.png` |
+| Q9 | Repeat customers | `outputs/q09_repeat_customers.csv` | `screens/q09_repeat_customers.png` |
+| Q10 | Highest order value | `outputs/q10_highest_order.csv` | `screens/q10_highest_order.png` |
+| Q11 | Best-selling category | `outputs/q11_best_category.csv` | `screens/q11_best_category.png` |
+| Q12 | Monthly revenue | `outputs/q12_monthly_revenue.csv` | `screens/q12_monthly_revenue.png` |
+| Q13 | Returning customer % | `outputs/q13_returning_pct.csv` | `screens/q13_returning_pct.png` |
+| Q14 | Product ranking (RANK) | `outputs/q14_rank_products.csv` | `screens/q14_rank_products.png` |
+| Q15 | Category % revenue | `outputs/q15_category_pct.csv` | `screens/q15_category_pct.png` |
+| Q16 | Orders per customer | `outputs/q16_orders_per_customer.csv` | `screens/q16_orders_per_customer.png` |
+| Q17 | Above avg revenue products | `outputs/q17_products_above_avg.csv` | `screens/q17_products_above_avg.png` |
+| Q18 | Top 3 per category | `outputs/q18_top3_per_category.csv` | `screens/q18_top3_per_category.png` |
+| Q19 | Customer Lifetime Value | `outputs/q19_ltv.csv` | `screens/q19_ltv.png` |
+| Q20 | KPI Summary | `outputs/q20_summary.csv` | `screens/q20_summary.png` |
+
+---
+
+## ▶️ How to Run This Project
+
+### **1. Install DB Browser for SQLite**
+Download: https://sqlitebrowser.org/
+
+### **2. Create a new database**
+
+
+### **3. Import CSV files**
+Go to:
+
+Import all 4 CSVs.
+
+### **4. Run the queries**
+Open:
+
+Run each query inside **Execute SQL**.
+
+### **5. Export results**
+Use:
+
+Save in `outputs/`.
+
+Save screenshots in `screens/`.
+
+---
+
+## 📄 Resume Bullet Points
+
+**E-commerce SQL Analytics — SQLite**
+
+- Built a complete SQL analytics project with **20+ business queries**.  
+- Calculated KPIs, LTV, customer segmentation, category revenue, product performance, and trends.  
+- Used advanced SQL: **CTEs, Window Functions, RANK, DENSE_RANK**, joins, aggregations.  
+- Structured project with clean folders: data, outputs, screenshots, SQL scripts.  
+
+---
+
+## 👤 Author
+
+**Rakesh D.**  
+Aspiring Data Analyst  
+Skills: SQL | Power BI | Python | Excel  
 
