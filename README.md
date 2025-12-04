@@ -68,11 +68,28 @@ sql/queries.sql
 
 ---
 
-## 📈 Screenshots
+## 📸 Screenshots
 
-All screenshots of SQL output are stored in: 
-screens/
-
+![Total Orders](ecommerce-sql-analysis/screens/q01_total_orders.png)
+![Active Customers](ecommerce-sql-analysis/screens/q02_active_customers.png)
+![Total Revenue](ecommerce-sql-analysis/screens/q03_total_revenue.png)
+![Average Order Value](ecommerce-sql-analysis/screens/q04_aov.png)
+![Top Products](ecommerce-sql-analysis/screens/q05_top_products.png)
+![Top Customers](ecommerce-sql-analysis/screens/q06_top_customers.png)
+![Orders per Month](ecommerce-sql-analysis/screens/q07_orders_per_month.png)
+![Category Revenue](ecommerce-sql-analysis/screens/q08_category_revenue.png)
+![Repeat Customers](ecommerce-sql-analysis/screens/q09_repeat_customers.png)
+![Highest Order Value](ecommerce-sql-analysis/screens/q10_highest_order.png)
+![Best Category](ecommerce-sql-analysis/screens/q11_best_category.png)
+![Monthly Revenue](ecommerce-sql-analysis/screens/q12_monthly_revenue.png)
+![Returning Customer %](ecommerce-sql-analysis/screens/q13_returning_pct.png)
+![Rank Products](ecommerce-sql-analysis/screens/q14_rank_products.png)
+![Category %](ecommerce-sql-analysis/screens/q15_category_pct.png)
+![Orders per Customer](ecommerce-sql-analysis/screens/q16_orders_per_customer.png)
+![Products Above Avg](ecommerce-sql-analysis/screens/q17_products_above_avg.png)
+![Top 3 per Category](ecommerce-sql-analysis/screens/q18_top3_per_category.png)
+![Customer Lifetime Value](ecommerce-sql-analysis/screens/q19_ltv.png)
+![Final Summary](ecommerce-sql-analysis/screens/q20_summary.png)
 
 ---
 
