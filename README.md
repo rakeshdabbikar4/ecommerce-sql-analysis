@@ -1,10 +1,19 @@
 # 📊 E-commerce SQL Analysis Project
 
+---
+
+## Project Overview
+
 This project performs a complete **end-to-end SQL analysis** on an E-commerce dataset using **SQLite**.  
 It covers business KPIs, customer behavior, product performance, and advanced SQL concepts such as **CTEs**, **Window Functions**, **Ranking**, and aggregations.
 
 The project is organized into separate folders for data, outputs, screenshots, and SQL queries for clear structure and professional presentation.
 
+---
+
+## 💡 Business Problem
+
+**Analyze e-commerce data to uncover customer behavior, revenue trends, and product performance to support data-driven business decisions.**
 ---
 
 ## 📁 Project Structure
